@@ -2,7 +2,7 @@
 
 
 ## Authors
-- [Darshak Kakan i](https://github.com/DarshaK1Just)  
+- [Darshak Kakani](https://github.com/DarshaK1Just)  
 
 
 
